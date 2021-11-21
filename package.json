@@ -5,7 +5,7 @@
   "main": "main.js",
   "bin": "main.js",
   "scripts": {
-    "start": "node 1234123443214321.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
